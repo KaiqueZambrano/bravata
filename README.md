@@ -1,5 +1,7 @@
 # Bravata
 
+---
+
 ## Introdução
 - Jogo de cartas com apostas, inspirado em **canastra**, **pôquer** e **truco paulista**.  
 - Para **2 ou 4 jogadores** (mano a mano ou em duplas).  
