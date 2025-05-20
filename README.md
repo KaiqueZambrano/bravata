@@ -3,6 +3,7 @@
 ---
 
 ## Introdução
+
 - Jogo de cartas com apostas, inspirado em **canastra**, **pôquer** e **truco paulista**.  
 - Para **2 ou 4 jogadores** (mano a mano ou em duplas).  
 - Disputado em **melhor de três rodadas**.  
@@ -12,6 +13,7 @@
 ---
 
 ## Objetivo
+
 - Vence a partida quem conquistar **duas rodadas**.  
 - Vence a rodada quem acumular **1000 pontos de Prestígio**.  
 - A rodada termina quando um jogador **bate** (fica sem cartas).  
@@ -21,7 +23,10 @@
 
 ## Como jogar
 
+---
+
 ### Baralho utilizado
+
 - Utiliza dois **baralhos de tarô europeu** (total: **156 cartas**):  
   - **Cartas comuns** (56 por baralho):  
     - Naipes: Paus, Copas, Espadas e Ouros.  
@@ -91,6 +96,8 @@
 - A ordem das cartas comuns segue a do truco, com a adição do **Cavaleiro**.  
 - A **Manilha** funciona como um coringa — portanto, sua posição na ordem não importa.
 
+---
+
 | Cartas                       | Prestígio |
 |------------------------------|-----------|
 | 4, 5, 6, 7                   | +5        |
@@ -103,6 +110,8 @@
 ## Combinações: cartas comuns
 
 - As combinações válidas com cartas comuns seguem as regras do pôquer.
+
+---
 
 | Combinação      | Limpa | Suja |
 |-----------------|-------|------|
@@ -121,8 +130,9 @@
 
 ## Trunfos: efeitos e valor
 
-- Os trunfos são ordenados numericamente de 1 a 21.
-- O trunfo *Excuse* é um **coringa**.
+- Cada trunfo tem um efeito especial e um valor em Prestígio.
+
+---
 
 | Carta                  | Efeito Especial                                                    | Prestígio |
 |------------------------|--------------------------------------------------------------------|-----------|
