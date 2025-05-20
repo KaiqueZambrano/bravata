@@ -1,5 +1,7 @@
 # Bravata
 
+![Logo](logo.png)
+
 ---
 
 ## Introdução
