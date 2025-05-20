@@ -149,6 +149,8 @@
 | 20 (O Julgamento)      | Desmonte uma combinação em cartas altas.                           | +15       |
 | 21 (O Mundo)           | Revive o morto.                                                    | +15       |
 
+---
+
 ## Combinações: trunfos
 
 - A única combinação permitida com trunfos é **carta alta**.
